@@ -1,0 +1,11 @@
+.dialog .el-dialog__header {
+  text-align: left;
+}
+li {
+  list-style: none;
+}
+
+.el-input__inner {
+  background-color: #e5e5e5;
+  border-color: #ccc;
+}
